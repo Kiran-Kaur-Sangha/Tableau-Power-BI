@@ -1,134 +1,92 @@
-# Week-2-Tableau-and-Power-BI-Workbook-
-Explored global health and Spotify data using Tableau and Power BI, applying visual analytics, dashboard design, and data storytelling techniques.
-# 📊 Tableau & Power BI Analytics | Data Technician Bootcamp – Week 2
+# 📊 Business Intelligence & Cross-Platform Visual Analytics (Tableau & Power BI)
 
-## Overview
+## 📌 Project Background & Context
 
-Week 2 marked my introduction to the world of Business Intelligence and Data Visualisation, where I moved beyond spreadsheets and began transforming data into interactive stories using Tableau and Power BI. Working with global health and Spotify datasets, I explored how visual analytics can uncover patterns, trends, and relationships that may otherwise remain hidden within raw data. Alongside dashboard development, I strengthened my understanding of data transformation, reporting, dashboard design, and business intelligence workflows.
-
----
-
-# 🌍 Global Health Dashboard | Tableau
-
-### Project Focus
-
-Using the Gapminder Health dataset, I analysed global health indicators to better understand how life expectancy varies across countries, continents, and demographic groups. The objective was to create an interactive dashboard capable of supporting evidence-based decision-making within a healthcare setting.
-
-### Dashboard Features
-
-* Life Expectancy by Continent (Bar Chart)
-* Life Expectancy Trends Over Time (Line Chart)
-* Population Distribution by Gender (Interactive Pie Chart)
-* Life Expectancy vs BMI Analysis (Scatter Plot)
-* Dashboard-Level Filters and User Interaction
-
-<img width="567" height="264" alt="image" src="https://github.com/user-attachments/assets/220d591e-5ee5-419b-9a02-295bab57bdb4" />
-
-
-### Key Findings
-
-* Significant differences in life expectancy exist across continents.
-* Countries with stronger health indicators generally demonstrated higher life expectancy.
-* Visual comparisons highlighted how factors such as health infrastructure, access to healthcare, and lifestyle may influence long-term outcomes.
-* Interactive filtering allowed deeper exploration of demographic and regional trends.
-
-### Real-World Application
-
-One aspect I particularly enjoyed was considering how these insights could be applied within organisations such as the NHS. Similar dashboards could be used to monitor public health trends, identify areas requiring intervention, and support preventative healthcare strategies through evidence-led decision making.
+* **Role:** Associate Data Analyst (Data Analyst Bootcamp Client Project)
+* **Stakeholder Audience:** Public Health Operations Directors (NHS) / Digital Product Marketing Managers / Executive Finance Directors
+* **Context:** As part of my intensive Data Technician Bootcamp, I completed an advanced cross-platform business intelligence sprint using Tableau Public and Power BI Desktop. Moving beyond static flat-file reporting, this project required handling multi-source global health tracking schemas (Gapminder), streaming media audience metrics (Spotify API elements), and multi-market corporate ERP ledgers (Adventure Works). The core objective was to engineer executive-level interactive tools that surface granular metrics to drive strategic resource deployment and operational performance audits.
 
 ---
 
-# 🎵 Spotify Trends Dashboard | Tableau
+## 📑 Executive Summary
 
-### Project Focus
+A comprehensive multi-sector visualization audit across public health structures, digital media streaming trends, and enterprise financial records highlights critical operational levers for decision-makers:
 
-Using Spotify music data, I explored how characteristics such as danceability, energy, genre, and emotional positivity (valence) influence popularity and listener engagement.
-
-### Dashboard Features
-
-<img width="567" height="264" alt="image" src="https://github.com/user-attachments/assets/2881aac5-3d00-4bf9-b13f-3a6163421123" />
-
-
-* Popularity by Genre & Valence
-* Danceability Analysis
-* Top Energetic Songs Visualisation
-* Genre Distribution Treemap
-* Interactive Dashboard Filters
-
-### Key Findings
-
-* Genres with higher valence often showed stronger popularity.
-* Highly danceable tracks frequently appeared among the most popular songs.
-* Energy and popularity demonstrated a noticeable relationship across multiple genres.
-* The treemap highlighted that many artists span multiple genres rather than fitting into a single category.
-
-### Real-World Application
-
-These findings demonstrate how music platforms and marketing teams can use listener behaviour data to better understand audience preferences, improve recommendation systems, and create more targeted engagement strategies.
+* **Global Health Ecosystem:** Analysis isolates a deep geographical stratification in mean life expectancy over time, heavily dependent on regional body mass index (BMI) tracking clusters and structural baseline healthcare infrastructure.
+* **Streaming Media Engagement:** Track popularity scales exponentially when optimized around rhythmic attributes, proving that high-danceability percentiles and diverse, multi-genre artist distributions outperform static single-category tracks.
+* **Enterprise Finance Systems:** Cross-platform Power BI analysis reveals that while revenue stability maps directly to specific high-performing regional hubs, significant product segments suffer from margin compression, requiring dynamic multi-period filtering matrices to detect performance drops.
 
 ---
 
-# 📈 Power BI Development
+## 🛠️ Technical Workflow & Practical Applications
 
-Alongside Tableau, I completed a series of Power BI labs designed to develop core business intelligence and reporting skills.
+During my bootcamp training, I engineered end-to-end business intelligence pipelines from raw ingestion to active cloud deployment:
 
-<img width="291" height="161" alt="image" src="https://github.com/user-attachments/assets/dc5b8783-1181-4f58-aebe-08319c8ac5b0" />
-<img width="291" height="161" alt="image" src="https://github.com/user-attachments/assets/2c0323b1-ab78-426c-a0a7-e5c53b5e88b3" />
-<img width="291" height="161" alt="image" src="https://github.com/user-attachments/assets/dfa89061-cdc8-40e7-b341-6764d2a61a46" />
+### 1. Data Ingestion & Power Query Architecture
+* **Multi-Source ETL Pipelines:** Integrated standalone financial transactional workbooks with external live OData server streams within Power BI, preserving schema relationships during cross-table operations.
+* **Data Transformation & Profiling:** Handled column noise, corrected structural data types, stripped tracking nulls via Power Query transformations, and optimized table schemas for complex star-schema configurations.
 
-
-### Areas Explored
-
-* Importing and connecting data sources
-* Power Query data transformation
-* Combining Excel and external datasets
-* Designing interactive reports
-* Publishing reports to Power BI Service
-* Semantic Models
-* DAX Calculations
-* Dashboard Design Best Practices
-
-### Practical Labs Completed
-
-* Excel Workbook to Power BI Report
-* Combining Excel and OData Data Sources
-* Cleaning, Transforming and Loading Data
-* Designing Power BI Reports
-* Creating DAX Calculations in Semantic Models
+### 2. Semantic Modeling & Calculation Design
+* **DAX Business Logic:** Coded native Data Analysis Expressions (DAX) to handle complex business reporting, automating historical calculations like sum totals of quantities, multi-period line totals, and dynamic operational profit margins.
+* **Dashboard Control & Filtering Context:** Configured cross-filtering, interactive timeline slicers, global parameter filters, and explicit coordinate maps to ensure non-technical executives can effortlessly parse granular sub-sections.
 
 ---
 
-# 🛠 Technologies Used
+## 🌍 Module 1: Global Health Performance Dashboard (Tableau)
 
-### Tableau Public
+### 📈 Analytical Focus & Core Metrics
+* **Target Audience:** NHS Regional Operations & Public Health Strategy Teams
+* **Key Metrics Analyzed:** Continental Mean Life Expectancy, Historical Progress Trends (1990–2010), Population Gender Distribution Ratio, and Body Mass Index (BMI) vs. Longevity Coordinates.
 
-Used to create and publish interactive dashboards, visualise trends, compare metrics, and explore relationships between variables through dynamic reporting.
+### 🖼️ Dashboard Interface
+<img width="567" height="264" alt="607960981-220d591e-5ee5-419b-9a02-295bab57bdb4" src="https://github.com/user-attachments/assets/619f6f10-2abc-470a-b1cd-93f11bde6df7" />
 
-### Power BI
 
-Used to transform, model, and report on data while developing a deeper understanding of modern business intelligence workflows and dashboard design principles.
-
----
-
-# Key Skills Developed
-
-* Data Visualisation
-* Business Intelligence Reporting
-* Dashboard Design
-* Data Storytelling
-* Trend Analysis
-* Interactive Reporting
-* Data Transformation
-* Power Query
-* DAX Fundamentals
-* Stakeholder-Focused Insights
+### 💻 Insight Deep Dive:
+* **The Infrastructure Correlation Deficit:** Scatter plot tracking confirms a strong, non-linear cluster between a nation's Average BMI and its Average Life Expectancy. However, as observed in mature cohorts, outcomes flatten past a critical point, demonstrating that macro healthcare infrastructure and accessibility play a more significant role in long-term longevity than basic physiological trends.
+* **Historical Progress Trends (1990–2010):** While continuous line analysis displays a steady global closing of continental health disparities, distinct structural dips highlight specific historical regional health crises, proving that progress remains deeply vulnerable to systemic shifts.
 
 ---
 
-## Reflection
+## 🎵 Module 2: Streaming Engagement Optimization Dashboard (Tableau)
 
-This week reinforced that good data analysis is not just about producing charts—it is about asking meaningful questions and presenting findings in a way that helps others make better decisions. Whether analysing global health outcomes or Spotify listening behaviour, I learned how effective visualisation can transform raw numbers into clear, engaging, and actionable insights.
+### 📈 Analytical Focus & Core Metrics
+* **Target Audience:** Digital Product Managers & Content Marketing Teams
+* **Key Metrics Analyzed:** Genre Popularity Indices, Rhythmic Danceability Clusters, Top Energetic Track Distribution, and Cross-Genre Artist Proportions.
 
-### Tableau Public Portfolio
+### 🖼️ Dashboard Interface
+<img width="602" height="336" alt="607961641-2881aac5-3d00-4bf9-b13f-3a6163421123" src="https://github.com/user-attachments/assets/b3c907f0-dc30-4b4a-9550-af37b8e9fee9" />
 
-🔗 https://public.tableau.com/app/profile/kiran.sangha7873/vizzes
+
+### 💻 Insight Deep Dive:
+* **The Rhythmic Popularity Premium:** Bubble chart density mapping indicates that tracks reaching the highest danceability thresholds cluster inside the highest popularity tiers, establishing a baseline metric for predictive playlist selection.
+* **The Valence Multiplier & Multi-Genre Footprints:** Volume tracking reveals that high valence scores (emotional positivity) act as a secondary catalyst for popularity metrics. Additionally, cross-filtering highlights that top-tier artists frequently span multiple sub-genres, expanding their reach across broader market segments.
+
+---
+
+## 📈 Module 3: Enterprise Finance & Operations Reports (Power BI)
+
+### 📈 Analytical Focus & Core Metrics
+* **Target Audience:** Executive Corporate Treasurers & Country Sales Directors
+* **Key Metrics Analyzed:** Sum of Operational Profit, Country-Level Performance Splits, Sum of Unit Quantities, Line Totals by Order Date (1996–1998), and Segment Product Velocity.
+
+### 🖼️ Dashboard Interfaces
+<img width="291" height="161" alt="607964561-dc5b8783-1181-4f58-aebe-08319c8ac5b0" src="https://github.com/user-attachments/assets/ac1f3ffd-8b4a-49ae-a720-c10e3c9928dc" />
+
+<img width="356" height="198" alt="607964633-2c0323b1-ab78-426c-a0a7-e5c53b5e88b3" src="https://github.com/user-attachments/assets/49cbc3dc-1f4d-4515-96cd-fc7b3238980c" />
+
+<img width="417" height="277" alt="607964702-dfa89061-cdc8-40e7-b341-6764d2a61a46" src="https://github.com/user-attachments/assets/b341e259-e107-4348-9c1d-88f25c92d54a" />
+
+
+### 💻 Insight Deep Dive:
+* **Multi-Market Profit Trajectories:** Continuous line chart modeling isolates severe monthly margin volatility over time, mapping out deep recurring drops alongside strong positive shifts. Geographic coordinate mapping reveals that primary financial volume remains tightly concentrated within major North American and Western European commercial zones.
+* **Product Segment Scaling:** Bar charts segmenting transaction quantities show that primary volume is driven by a small, highly dominant subset of product variants, whereas secondary lines show low velocity. High-density order date timelines show that transaction spikes are highly erratic, requiring operations teams to tightly synchronize inventory levels with historical purchase signals.
+
+---
+
+## 🚀 Environment & Tooling
+
+* **BI Platforms:** Tableau Public / Power BI Desktop & Power BI Cloud Service
+* **Key Toolkit:** Power Query Transformations, DAX Semantic Modeling, Cross-Filtering Actions, Level of Detail (LOD) Formats, Multi-Source Schema Blending (Excel + OData Streams)
+* **Training Foundation:** Data Technician Bootcamp
+* **Live Visualizations:** [View Live Tableau Public Portfolio](https://public.tableau.com/app/profile/kiran.sangha7873/vizzes)
