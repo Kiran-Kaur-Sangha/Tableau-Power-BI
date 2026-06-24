@@ -4,7 +4,7 @@
 
 * **Role:** Associate Data Analyst (Data Analyst Bootcamp Client Project)
 * **Stakeholder Audience:** Public Health Operations Directors (NHS) / Digital Product Marketing Managers / Executive Finance Directors
-* **Context:** As part of my intensive Data Technician Bootcamp, I completed an advanced cross-platform business intelligence sprint using Tableau Public and Power BI Desktop. Moving beyond static flat-file reporting, this project required handling multi-source global health tracking schemas (Gapminder), streaming media audience metrics (Spotify API elements), and multi-market corporate ERP ledgers (Adventure Works). The core objective was to engineer executive-level interactive tools that surface granular metrics to drive strategic resource deployment and operational performance audits.
+* **Context:** As part of my intensive Data Analyst Bootcamp, I completed an advanced cross-platform business intelligence sprint using Tableau Public and Power BI Desktop. Moving beyond static flat-file reporting, this project required handling multi-source global health tracking schemas (Gapminder), streaming media audience metrics (Spotify API elements), and multi-market corporate ERP ledgers (Adventure Works). The core objective was to engineer executive-level interactive tools that surface granular metrics to drive strategic resource deployment and operational performance audits.
 
 ---
 
